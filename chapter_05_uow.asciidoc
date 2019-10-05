@@ -1,6 +1,8 @@
 [[chapter_05_uow]]
 == Unit of Work Pattern
 
+// [SG]
+
 In this chapter we'll introduce the final piece of the puzzle that ties
 together the Repository and Service Layer: the _Unit of Work_ pattern.
 
